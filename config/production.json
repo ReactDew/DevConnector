@@ -1,5 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://vova:katereact@devconnector.8m27i.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubToken": "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"
-}
